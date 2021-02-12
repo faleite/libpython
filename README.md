@@ -7,6 +7,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 Link para o curso [Python Pro](https://www.python.pro.br)
 
 [![Build Status](https://travis-ci.com/faleite/libpython.svg?branch=master)](https://travis-ci.com/faleite/libpython)
+[![Updates](https://pyup.io/repos/github/faleite/libpython/shield.svg)](https://pyup.io/repos/github/faleite/libpython/)
+[![Python 3](https://pyup.io/repos/github/faleite/libpython/python-3-shield.svg)](https://pyup.io/repos/github/faleite/libpython/)
 
 Suportada a versão 3 de Python
 

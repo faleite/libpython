@@ -103,7 +103,7 @@ def find_package_data(
 
 
 PACKAGE = "libpython"
-NAME = PACKAGE
+NAME = "libfaleite"
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Fabricio Araujo"
 AUTHOR_EMAIL = "fabricio_2310@hotmail.com"

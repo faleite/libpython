@@ -14,4 +14,4 @@ def buscar_avatar(usuario):
 
 
 if __name__ == '__main__':
-    pass
+    print(buscar_avatar('faleite'))

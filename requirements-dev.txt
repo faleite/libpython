@@ -10,6 +10,9 @@ iniconfig==1.1.1
 toml==0.10.2
 py==1.10.0
 pytest==6.2.2
+pytest-mock==3.5.1
+pyparsing==2.4.7
+packaging==20.9
 
 #Coverage
 coverage==5.4
